@@ -13,7 +13,7 @@ const Hero = () => {
             </div>
             <div className="w-full lg:w-1/2 lg:p-8">
                 <div className="flex justify-center">
-                    <img src={profilePic} style = {{height:500,width:500,filter:'brightness(0.5)'}} alt="Amit Omer" />
+                    <img className="rounded-2xl w-[500px] h-[500px] object-cover brightness-75" src={profilePic} alt="Amit Omer" />
                 </div>
             </div>
         </div>

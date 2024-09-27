@@ -5,7 +5,12 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `add a summary about myself , what i want to do and love coding languages technoglogies school time extra bla bla bla`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `A second-year computer science student seeking
+opportunities to apply and expand my knowledge in software
+development, data analysis, and other areas within the field of
+computer science. Looking for an internship or a part-time
+position that will help me develop practical skills and gain
+valuable industry experience.`;
 
 export const EXPERIENCES = [
   {
