@@ -13,7 +13,7 @@ valuable industry experience.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "2024 - Present",
     role: "TeamMate System Implementation",
     company: " Bank Of Israel",
     description: `Implementation and configuration of an audit and risk management process by the client characterization, training the employee in the relevent department how to work with the system and make configuration according to their needs.`,
