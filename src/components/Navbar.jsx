@@ -1,7 +1,6 @@
 import logo from "../assets/amitOmerLogo.png"
 import { FaLinkedin } from "react-icons/fa"
 import { FaGithub } from "react-icons/fa"
-import { FaInstagram } from "react-icons/fa"
 
 
 const Navbar = () => {
@@ -15,9 +14,6 @@ const Navbar = () => {
       </a>
       <a href="https://github.com/AmitO1" target="_blank" rel="noopener noreferrer">
       <FaGithub />
-      </a>
-      <a href="https://www.instagram.com/amitomer1?igsh=N21veTFpOHMwaTRl&utm_source=qr" target="_blank" rel="noopener noreferrer">
-      <FaInstagram />
       </a>
     </div>
   </nav>

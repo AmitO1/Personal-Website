@@ -40,14 +40,14 @@ export const PROJECTS = [
     title: "Symnmf C Moudle And K-Means Comparison",
     image: project1,
     description:
-      "A C module for python that compute the SYMNMF algorithm , Python k-means implementation and comparison between the two clustering algorithm in python. ",
+      "Implemented the Symmetric Nonnegative Matrix Factorization (SymNMF) and K-means clustering algorithms in C. Developed a Python package to integrate the C code for seamless use in Python environments. Conducted a comparison of clustering results between the two models, showcasing their effectiveness and performance differences.",
     technologies: ["C", "Python"],
   },
   {
     title: "Portfolio Website",
     image: project2,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "Designed and developed a responsive personal portfolio website using React.js, HTML, and CSS. Deployed the project online using Vercel, ensuring seamless accessibility. Highlighted experience, projects, and skills in a visually appealing layout.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
 ];
